@@ -19,17 +19,19 @@
             Foreground="{ThemeResource TextFillColorSecondaryBrush}"
             Style="{StaticResource BodyTextBlockStyle}" />
             
-        <Button x:Name="SelectApkButton" 
-                Content="Select APK" 
-                Click="SelectApkButton_Click" 
-                HorizontalAlignment="Center"
-                Style="{ThemeResource AccentButtonStyle}"/>
+        <Button 
+            x:Name="SelectApkButton" 
+            Content="Select APK" 
+            Click="SelectApkButton_Click" 
+            HorizontalAlignment="Center"
+            Style="{ThemeResource AccentButtonStyle}"/>
                 
-        <TextBlock x:Name="SelectedApkPathTextBlock" 
-                   Text="No APK selected" 
-                   HorizontalAlignment="Center"
-                   Foreground="{ThemeResource TextFillColorSecondaryBrush}"
-                   Style="{StaticResource BodyTextBlockStyle}"/>
+        <TextBlock 
+            x:Name="SelectedApkPathTextBlock" 
+            Text="No APK selected" 
+            HorizontalAlignment="Center"
+            Foreground="{ThemeResource TextFillColorSecondaryBrush}"
+            Style="{StaticResource BodyTextBlockStyle}"/>
     </StackPanel>
 
 </Window>
