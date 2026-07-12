@@ -108,8 +108,8 @@ Research areas:
 - [x] Add license
 - [x] Create initial README
 - [ ] Write architecture notes
-- [ ] Create contribution guidelines
-- [ ] Document legal/trademark boundaries
+- [x] Create contribution guidelines
+- [x] Document legal/trademark boundaries
 
 ### Phase 1 — Native Windows Control App
 
@@ -305,7 +305,9 @@ WinDroid Runtime is not affiliated with, endorsed by, sponsored by, or connected
 
 Windows, Android, Google Play, Amazon Appstore, Microsoft, Google, Amazon, and related names, logos, and trademarks are the property of their respective owners.
 
-This project does not use Microsoft WSA binaries, Microsoft branding, Google Play binaries, or proprietary app store components.
+This project does not use Microsoft WSA binaries, Microsoft branding, Google Play binaries, or proprietary application-store components.
+
+For the complete project policy, see [Legal, Licensing, and Trademark Boundaries](docs/legal-notes.md).
 
 ## App Store and Google Play Notice
 
